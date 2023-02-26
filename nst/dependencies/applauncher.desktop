@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Network-Security Toolkit
+Comment=Software
+Version=1.0
+Exec=sudo bash /usr/local/bin/ntoolkit -s 
+Terminal=true
+Type=Application
+StartupNotify=true
+Icon=/usr/share/ntoolkit/icon/horn-clipart-wild-west-15.png
+OnlyShowIn=Unity;GNOME;
+X-UnityGenerated=true
+
+
