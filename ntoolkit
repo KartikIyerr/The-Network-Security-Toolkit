@@ -260,7 +260,7 @@ else
 			echo
 			CONNECTION_CHECK
 			ANON_CHECK
-			echo 
+			echo ""
 
 			
 			
